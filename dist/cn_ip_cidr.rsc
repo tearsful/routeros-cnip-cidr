@@ -178,6 +178,7 @@
 :do {add address=40.72.0.0/15 list=cn_ip_cidr} on-error={}
 :do {add address=40.125.128.0/17 list=cn_ip_cidr} on-error={}
 :do {add address=40.126.64.0/18 list=cn_ip_cidr} on-error={}
+:do {add address=40.162.0.0/16 list=cn_ip_cidr} on-error={}
 :do {add address=42.0.0.0/22 list=cn_ip_cidr} on-error={}
 :do {add address=42.0.8.0/21 list=cn_ip_cidr} on-error={}
 :do {add address=42.0.16.0/21 list=cn_ip_cidr} on-error={}
