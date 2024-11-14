@@ -7039,6 +7039,7 @@
 :do {add comment=cn_ip_cidr address=202.127.6.0/23 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=202.127.12.0/22 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=202.127.16.0/20 list=cn_ip_cidr} on-error={}
+:do {add comment=cn_ip_cidr address=202.127.40.0/21 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=202.127.48.0/20 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=202.127.112.0/20 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=202.127.128.0/20 list=cn_ip_cidr} on-error={}
