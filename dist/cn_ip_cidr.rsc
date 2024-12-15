@@ -8670,9 +8670,11 @@
 :do {add comment=cn_ip_cidr address=45.82.240.0/22 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=45.149.16.0/22 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=45.152.24.0/22 list=cn_ip_cidr} on-error={}
+:do {add comment=cn_ip_cidr address=62.3.6.0/24 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=74.122.24.0/22 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=85.209.40.0/22 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=91.233.17.0/24 list=cn_ip_cidr} on-error={}
+:do {add comment=cn_ip_cidr address=146.19.100.0/24 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=178.236.224.0/20 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=185.2.48.0/22 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=185.192.56.0/22 list=cn_ip_cidr} on-error={}
