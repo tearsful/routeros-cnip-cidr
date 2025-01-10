@@ -9363,7 +9363,6 @@
 :do {add comment=cn_ipv6 address=2401:fa80::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2401:fb80::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2401:fc80::/32 list=cn_ip_cidr} on-error={}
-:do {add comment=cn_ipv6 address=2401:fe80::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2401:ffc0::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2402:440::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2402:5c0::/32 list=cn_ip_cidr} on-error={}
