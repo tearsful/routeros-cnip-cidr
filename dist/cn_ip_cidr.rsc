@@ -6327,6 +6327,10 @@
 :do {add comment=cn_ip_cidr address=163.223.222.0/23 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=163.227.34.0/23 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=163.227.40.0/23 list=cn_ip_cidr} on-error={}
+:do {add comment=cn_ip_cidr address=163.227.74.0/23 list=cn_ip_cidr} on-error={}
+:do {add comment=cn_ip_cidr address=163.227.76.0/23 list=cn_ip_cidr} on-error={}
+:do {add comment=cn_ip_cidr address=163.227.78.0/23 list=cn_ip_cidr} on-error={}
+:do {add comment=cn_ip_cidr address=163.227.80.0/23 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=163.228.0.0/16 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=164.52.0.0/17 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=166.111.0.0/16 list=cn_ip_cidr} on-error={}
