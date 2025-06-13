@@ -9973,7 +9973,6 @@
 :do {add comment=cn_ipv6 address=2404:3bc0::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2404:3c40::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2404:3f40::/32 list=cn_ip_cidr} on-error={}
-:do {add comment=cn_ipv6 address=2404:4080::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2404:41c0::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2404:4540::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2404:4740::/32 list=cn_ip_cidr} on-error={}
