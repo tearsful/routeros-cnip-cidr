@@ -3921,7 +3921,6 @@
 :do {add comment=cn_ip_cidr address=103.152.30.0/23 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=103.152.56.0/23 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=103.152.76.0/23 list=cn_ip_cidr} on-error={}
-:do {add comment=cn_ip_cidr address=103.152.98.0/23 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=103.152.112.0/23 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=103.152.120.0/23 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=103.152.122.0/23 list=cn_ip_cidr} on-error={}
