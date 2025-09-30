@@ -9419,6 +9419,7 @@
 :do {add comment=cn_ipv6 address=2402:2ca0::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2402:2d00::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2402:2d80::/32 list=cn_ip_cidr} on-error={}
+:do {add comment=cn_ipv6 address=2402:2e60::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2402:2e80::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2402:2f40::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2402:3040::/32 list=cn_ip_cidr} on-error={}
