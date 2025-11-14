@@ -8700,13 +8700,11 @@
 :do {add comment=cn_ip_cidr address=91.233.17.0/24 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=103.124.182.0/23 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=103.250.172.0/22 list=cn_ip_cidr} on-error={}
-:do {add comment=cn_ip_cidr address=176.116.4.0/24 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=178.236.224.0/20 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=185.2.48.0/22 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=185.7.175.0/24 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=185.192.56.0/22 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=194.127.229.0/24 list=cn_ip_cidr} on-error={}
-:do {add comment=cn_ip_cidr address=217.114.35.0/24 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=91.234.36.0/24 list=cn_ip_cidr} on-error={}
 :if ([:len [/ipv6 dhcp-cl  find where status=bound]] > 0) do={
 /log info "Import cn ipv6 cidr list..."
