@@ -10753,6 +10753,7 @@
 :do {add comment=cn_ipv6 address=2602:f70d::/36 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2a03:f900::/29 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2a0a:2840::/29 list=cn_ip_cidr} on-error={}
+:do {add comment=cn_ipv6 address=2a0a:d680::/29 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2a0e:7580::/29 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2a13:1800::/29 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2a13:8b40::/29 list=cn_ip_cidr} on-error={}
