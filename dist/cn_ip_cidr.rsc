@@ -8824,7 +8824,6 @@
 :do {add comment=cn_ipv6 address=2001:df0:9c0::/48 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2001:df0:1bc0::/48 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2001:df0:25c0::/48 list=cn_ip_cidr} on-error={}
-:do {add comment=cn_ipv6 address=2001:df0:26c0::/48 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2001:df0:2e00::/48 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2001:df0:2e80::/48 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2001:df0:59c0::/48 list=cn_ip_cidr} on-error={}
