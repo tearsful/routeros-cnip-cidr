@@ -6226,6 +6226,7 @@
 :do {add comment=cn_ip_cidr address=151.158.72.0/23 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=151.158.78.0/23 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=151.158.80.0/23 list=cn_ip_cidr} on-error={}
+:do {add comment=cn_ip_cidr address=151.158.122.0/23 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=152.104.128.0/17 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=152.136.0.0/16 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=153.0.0.0/16 list=cn_ip_cidr} on-error={}
@@ -9552,6 +9553,7 @@
 :do {add comment=cn_ipv6 address=2402:4ac0::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2402:4b80::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2402:4bc0::/32 list=cn_ip_cidr} on-error={}
+:do {add comment=cn_ipv6 address=2402:4be0::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2402:4c40::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2402:4d80::/32 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2402:4e00::/32 list=cn_ip_cidr} on-error={}
