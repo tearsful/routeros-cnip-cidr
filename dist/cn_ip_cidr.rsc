@@ -10858,6 +10858,7 @@
 :do {add comment=cn_ipv6 address=2a13:1800::/29 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2a13:8b40::/29 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2001:678:53c::/48 list=cn_ip_cidr} on-error={}
+:do {add comment=cn_ipv6 address=2001:678:970::/48 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2001:67c:a1c::/48 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2001:67c:aec::/48 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ipv6 address=2001:67c:c28::/48 list=cn_ip_cidr} on-error={}
