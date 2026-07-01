@@ -8801,6 +8801,7 @@
 :do {add comment=cn_ip_cidr address=185.192.56.0/22 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=194.127.229.0/24 list=cn_ip_cidr} on-error={}
 :do {add comment=cn_ip_cidr address=91.234.36.0/24 list=cn_ip_cidr} on-error={}
+:do {add comment=cn_ip_cidr address=153.56.188.0/23 list=cn_ip_cidr} on-error={}
 :if ([:len [/ipv6 dhcp-cl  find where status=bound]] > 0) do={
 /log info "Import cn ipv6 cidr list..."
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find comment=cn_ipv6]
